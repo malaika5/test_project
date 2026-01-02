@@ -32,13 +32,11 @@ lib/
 
 ## 3. App Screenshots
 
-[Link to Screenshots](https://github.com/username/project-name/tree/main/screenshots)
-
-_(Note: Replace the link above with the actual path to your screenshots folder)_
+https://drive.google.com/drive/folders/1uKRy97yDbjBcKx3llIS9cFymlag87Cc2?usp=sharing
 
 ## 4. App Video
 
-[Watch App Demo](https://drive.google.com/file/d/xxxx/view)
+[Watch App Demo](https://drive.google.com/drive/folders/1uKRy97yDbjBcKx3llIS9cFymlag87Cc2?usp=sharing)
 
 _(Note: Replace the link above with the actual link to your demo video)_
 
