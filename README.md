@@ -45,5 +45,3 @@ _(Note: Replace the link above with the actual link to your demo video)_
 ## 5. App APK
 
 [Download APK](./releases/app-release.apk)
-
-_(Note: Replace the link above with the direct download link to your APK file)_
